@@ -12,3 +12,6 @@ function happyHolidayTo(holiday, name){
   var hapHolidayStringTo = 'Happy ' + holiday + ', ' + name + '!';
   return hapHolidayStringTo;
 }
+function holidayCountdown(holiday,days){
+  var holCD = "it"
+}
