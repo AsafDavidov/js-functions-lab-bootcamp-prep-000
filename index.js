@@ -8,3 +8,7 @@ function happyHolidaysTo(name){
   var hapHolidayStringTo = 'Happy holidays, ' + name + '!';
   return hapHolidayStringTo;
 }
+function happyHolidayTo(holiday, name){
+  var hapHolidayStringTo = 'Happy ' + holiday + ', ' + name + '!';
+  return hapHolidayStringTo;
+}
